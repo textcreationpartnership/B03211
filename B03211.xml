@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The extravagant youth, or, An emblem of prodigality. Tho' he was stout he can't get out, in trouble he'l remain young-men be wise, your freedom prize, bad company refrain. To the tune of, King James's jigg; or, The country farmer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684-1685?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03211</idno>
+            <idno type="STC">Wing E3934</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[96]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[138]</idno>
+            <idno type="EEBO-CITATION">99887126</idno>
+            <idno type="PROQUEST">ocm99887126</idno>
+            <idno type="VID">183323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183323)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[96]; A5:2[114])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The extravagant youth, or, An emblem of prodigality. Tho' he was stout he can't get out, in trouble he'l remain young-men be wise, your freedom prize, bad company refrain. To the tune of, King James's jigg; or, The country farmer.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon, and the Angel in Guiltspur-Street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1684 or 5]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Come listen a while and I will relate ..."</note>
+                  <note>Item at A5:2[114] imperfect: trimmed, affecting imprint.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Young men --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="138" facs="tcp:183323:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>The Extravagant YOUTH.</head>
+            <head type="sub">OR, An Emblem of PRODIGALITY.</head>
+            <argument>
+               <l>Tho' he was ſtout, he can't get out,</l>
+               <l>in Trouble he'l remain</l>
+               <l>Young-Men be wiſe, your Freedom prize,</l>
+               <l>bad Company refrain.</l>
+            </argument>
+            <opener>To the Tune of, King <hi>Iames's</hi>Jigg; Or, The Country Farmer.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme liſten a while and I will relate</l>
+               <l>My ſad and moſt diſmal deplorable ſtate,</l>
+               <l>For now I am in a moſt woful caſe,</l>
+               <l>My running this wild and extravagent race:</l>
+               <l>When Silks and Sattins did me adorn,</l>
+               <l>I ſaid that I was moſt Nobly Born,</l>
+               <l>Good Counſel I ſlighted, and held it in ſcorn,</l>
+               <l>But now here behold how I ſtick in the Horn.</l>
+            </lg>
+            <lg>
+               <l>I gave my ſelf over to ev'ry Vice,</l>
+               <l>As Courting, and ſporting with Cards and Dice</l>
+               <l>I thought in my heart it would never be day,</l>
+               <l>While I was attired in rich array:</l>
+               <l>With Boon Companions I did Trade,</l>
+               <l>They counted me a Iocular Blade,</l>
+               <l>But now all my Glory is clearly decay'd,</l>
+               <l>And into the Horn my ſelf have betray'd.</l>
+            </lg>
+            <lg>
+               <l>I once kept my Gelding abroad to Ride,</l>
+               <l>My Hat and my feather, and Sword by my ſide,</l>
+               <l>As long as my Pocket was lined with Gold,</l>
+               <l>In pleaſure I ſwam, and abroad I roul'd:</l>
+               <l>But now no longer can I reign,</l>
+               <l>In ſorrowful note I here do complain,</l>
+               <l>And ſtick in the Horn where I ſtill muſt remain,</l>
+               <l>And cannot get out if i'de never ſo fain.</l>
+            </lg>
+            <lg>
+               <l>My Father he went in a Thread-bare Coat,</l>
+               <l>And on his old Angels was wont to dote;</l>
+               <l>Which he had obtain'd by Vſury,</l>
+               <l>And now I have ſpent it as merrily:</l>
+               <l>I called for Wine like a Hector ſtout,</l>
+               <l>My Golden Guinnies did flye about,</l>
+               <l>I'de Revel and Rant, and i'de keep a fine rout,</l>
+               <l>But now I am in where I cannot get out.</l>
+            </lg>
+            <lg>
+               <l>I never would take any thought or care,</l>
+               <l>I ſaid that I was my old Fathers Heir,</l>
+               <l>My Feſtival Fellows was Roiſterous Boys,</l>
+               <l>We liv'd in delights with a thouſand joys:</l>
+               <l>While we in Splendor did abound,</l>
+               <l>Methoughts the world went merrily round,</l>
+               <l>But ſince friends &amp; fortune together hath frownd</l>
+               <l>I ſtick in the Horn, where I ſtill may be found.</l>
+            </lg>
+            <lg>
+               <l>My Father gave me all his free-hold Land,</l>
+               <l>And then at my Courteſie he would ſtand,</l>
+               <l>O then thought I, thy Silver ſhan't ruſt,</l>
+               <l>I'le make it to flye like the Summers Duſt:</l>
+               <l>Then did I keep my Prancing Naggs,</l>
+               <l>Till I had emptied his Golden Bags,</l>
+               <l>My Silks flouriſht like to a Navy of Flags,</l>
+               <l>But now they are worn and torn to Rags.</l>
+            </lg>
+            <lg>
+               <l>I Mortgag'd and ſold, and I ſpent ſo faſt,</l>
+               <l>The Miſer my father was vert at laſt,</l>
+               <l>To think that I ſquander'd away ſuch ſumms,</l>
+               <l>He ſcratcht his ears, and he knawed his thumbs,</l>
+               <l>His whole Eſtate was quite decay'd,</l>
+               <l>By thoſe vile Projects which I have play'd,</l>
+               <l>Thus I have quite ruin'd the Vſurers trade,</l>
+               <l>And I in the Horn am a ſorrowful Blade.</l>
+            </lg>
+            <lg>
+               <l>Now here an Example I muſt remain,</l>
+               <l>My freedom I never expect again,</l>
+               <l>Young Gallants be warned, ſuch ruine ſhun,</l>
+               <l>Which has both my father and I undone:</l>
+               <l>All comforts now from us are flown,</l>
+               <l>My Father in <hi>Bedlam</hi> makes his moan,</l>
+               <l>And I in the <hi>Counter</hi> a Priſoner thrown,</l>
+               <l>This Horn is a Figure by which it is known.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
